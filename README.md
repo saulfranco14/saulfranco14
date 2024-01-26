@@ -41,7 +41,7 @@ mi carrera me ha llevado a trabajar en una variedad de roles desafiantes, desde 
 
 ### 🔍 Experiencia Profesional
 - **Doctorfy** - Arquitecto de Soluciones Jr | Full Stack Developer Sr
-- **Bassol - Yartra** - Front-End Sr
+- **Yartra** - Front-End Sr
 - **Pars** - Co-Founder
 - **Plusvarq** - Arquitecto de Soluciones Jr | Full Stack Developer Md
 - **C&A Systems** - Full Stack Developer Md
