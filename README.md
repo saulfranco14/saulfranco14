@@ -1,6 +1,6 @@
 # 👋 Hola, soy Saúl Franco
 
-## 🚀 Desarrollador Full Stack | Arquitecto de Soluciones
+## 🚀 Desarrollador Full Stack | Arquitecto de Soluciones Jr
 
 Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología con una sólida formación en desarrollo de software y arquitectura de soluciones. Graduado de la Universidad Tecnológica de Nezahualcóyotl, 
 mi carrera me ha llevado a trabajar en una variedad de roles desafiantes, desde startups hasta empresas de servicios de TI.
@@ -40,6 +40,7 @@ mi carrera me ha llevado a trabajar en una variedad de roles desafiantes, desde 
 - **Cursos**: Next.js, React, Scrum, SEO, Redux, Prompt Engineering
 
 ### 🔍 Experiencia Profesional
+- **Grupo Promass** - Desarrollador Front End(actualmente)
 - **Doctorfy** - Arquitecto de Soluciones Jr | Full Stack Developer Sr
 - **Yartra** - Front-End Sr
 - **Pars** - Co-Founder
